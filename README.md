@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IsmailAbouZeid-Github
-- 👀 I’m interested in all things robotics with a focus on ROS
+- 👀 I’m interested in all things robotics with a focus on Software 
 - 🌱 I’m currently studying Mechatronics Engineering and I hope of becoming a Robotics Software Engineer
 
 <!---
